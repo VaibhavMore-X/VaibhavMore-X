@@ -1,4 +1,4 @@
-```md id="49eg8y"
+````md id="dql87y"
 <h1 align="center">Hi 👋, I'm Vaibhav Tanaji More</h1>
 
 <h3 align="center">
@@ -6,17 +6,47 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Data+Science+Engineer;Cybersecurity+Enthusiast;Full+Stack+Developer;Building+CyberMind-X;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Cybersecurity+Enthusiast;Full+Stack+Developer;Building+CyberMind-X;Exploring+Machine+Learning+%26+DevOps" />
+
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VaibhavMore-X&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/VaibhavMore-X?label=Followers&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/VaibhavMore-X?label=Stars&style=for-the-badge" />
+
+</div>
 
 ---
 
 # 💫 About Me
 
-✨ Passionate about AI-powered systems & cybersecurity platforms  
-⚡ Building futuristic analytics & threat intelligence systems  
-🧠 Exploring Machine Learning, DevOps & Full Stack Development  
-🚀 Creating scalable AI & Cybersecurity projects  
+```yaml
+Name: Vaibhav Tanaji More
+Username: VaibhavMore-X
+
+Focus:
+  - Artificial Intelligence
+  - Cybersecurity
+  - Data Analytics
+  - DevOps
+
+Currently Building:
+  - CyberMind-X
+  - ThreatLens-AI
+  - SecureStack
+
+Learning:
+  - Machine Learning
+  - Cloud & DevOps
+  - Threat Intelligence
+````
 
 ---
 
@@ -64,12 +94,12 @@
 
 <div align="center">
 
-| Project | Description |
-|---------|-------------|
-| 🔐 CyberMind-X | Autonomous AI Cyber Intelligence Platform |
-| ⚡ ThreatLens-AI | AI-Powered Threat Detection & Analytics |
-| 🛡️ SecureStack | Full Stack Vulnerability Management System |
-| 📚 AI Bookmark Manager | Semantic Search & AI Resource Platform |
+| Project                | Description                                |
+| ---------------------- | ------------------------------------------ |
+| 🔐 CyberMind-X         | Autonomous AI Cyber Intelligence Platform  |
+| ⚡ ThreatLens-AI        | AI-Powered Threat Detection & Analytics    |
+| 🛡️ SecureStack        | Full Stack Vulnerability Management System |
+| 📚 AI Bookmark Manager | Semantic Search & AI Resource Platform     |
 
 </div>
 
@@ -101,11 +131,21 @@
 
 <p align="center">
 
-📧 vaibhav.more23@pcu.edu.in  
-📧 vaibhavmore2006.1.11@gmail.com  
+<a href="mailto:vaibhav.more23@pcu.edu.in">
+<img src="https://img.shields.io/badge/College_Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-💻 GitHub:  
-https://github.com/VaibhavMore-X
+<a href="mailto:vaibhavmore2006.1.11@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VaibhavMore-X&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </p>
 
